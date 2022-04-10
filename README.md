@@ -1,7 +1,7 @@
 # Dataset_Creation
 Script for creating .pkl files with Images and Labels for NNs by folder structure.
 
-If you want to create 2 pickle files: one with images and the second one with coresponding labels to those images, you can use this simple script.
+If you want to create 2 pickle files: one with the images and the second one - with the coresponding labels to those images, you can use this simple script.
 
 You basicly:
 1) Create directories with the names of your labels anywhere on your computer
